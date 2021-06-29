@@ -7,3 +7,16 @@ maintainers:
   name: huxz
 name: starship-clusterd-agent
 version: 2.0.8
+#---
+#apiVersion: v2
+#version: 2.0.8
+#appVersion: v2.0.8
+#name: starship-clusterd-agent
+#engine: gotpl
+#description: Podinfo Helm chart for Kubernetes
+#home: https://github.com/stefanprodan/podinfo
+#maintainers:
+#  - email: huxz01@mingyuanyun.com
+#    name: huxz01
+#sources:
+#  - https://github.com/stefanprodan/podinfo

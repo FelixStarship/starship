@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  starship-clusterd-agent:
+  - apiVersion: v2
+    appVersion: v2.0.8
+    created: "2021-06-29T22:41:16.522167965+08:00"
+    description: starship clusterd agent
+    digest: 1a6cc38b5059e42d4c75596caafb29b62b5bcf7b0fa6200d272c536e3cb68f07
+    icon: https://davidlovezoe.files.wordpress.com/2019/08/spring-cloud.jpg
+    maintainers:
+    - email: huxz01@mingyuanyun.com
+      name: huxz
+    name: starship-clusterd-agent
+    urls:
+    - https://github.com/FelixStarship/starship.github.io/charts/charts/starship-clusterd-agent-2.0.8.tgz
+    version: 2.0.8
+generated: "2021-06-29T22:41:16.52134957+08:00"

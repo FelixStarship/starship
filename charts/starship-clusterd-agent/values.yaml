@@ -10,8 +10,8 @@ image:
   pullPolicy: Always
 arguments: 
   agent:
-  hub-host: https://starship-hub.mypaas.com.cn/
-  hub-http: https://starship.mypaas.com.cn/hubapi
+  hub-host: https://starship-hub.mypaas.com.cn/-test
+  hub-http: https://starship.mypaas.com.cn/hubapi/test
   token: 
 command: '["myapp","--log-level=warn"]'
 replicaCount: 1

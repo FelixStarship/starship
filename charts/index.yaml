@@ -11,6 +11,8 @@ entries:
     - email: huxz01@mingyuanyun.com
       name: huxz
     name: starship-clusterd-agent
+    sources:
+      - https://github.com/FelixStarship/starship.github.io/charts/starship-clusterd-agent
     urls:
     - https://github.com/FelixStarship/starship.github.io/charts/starship-clusterd-agent-2.0.8.tgz
     version: 2.0.8
